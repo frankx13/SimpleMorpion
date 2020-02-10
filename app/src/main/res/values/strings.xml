@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleMorpion</string>
+    <string name="configuration">Configuration</string>
+    <string name="grid_size">Taille de la grille :</string>
+    <string name="play_text">PLAY</string>
+    <string name="default_grid_size">TextView</string>
+</resources>
